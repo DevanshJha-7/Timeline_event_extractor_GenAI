@@ -10,3 +10,5 @@ env/
 *.sqlite3
 .vscode/
 .idea/
+
+chroma_db/
